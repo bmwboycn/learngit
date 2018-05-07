@@ -3,3 +3,5 @@ This is a test.
 We edit in branch test first.
 
 Second edit.
+
+First edit in branch.
